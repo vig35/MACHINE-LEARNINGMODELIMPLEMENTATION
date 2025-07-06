@@ -46,3 +46,5 @@ Here's a comprehensive description of a predictive model application for spam de
 - Industry-specific customization packs (legal, healthcare, etc.)
 
 # output 
+
+![Image](https://github.com/user-attachments/assets/a4ad5064-2fc4-4628-8412-977c4731e5f0)
