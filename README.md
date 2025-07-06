@@ -48,3 +48,5 @@ Here's a comprehensive description of a predictive model application for spam de
 # output 
 
 ![Image](https://github.com/user-attachments/assets/a4ad5064-2fc4-4628-8412-977c4731e5f0)
+
+![Image](https://github.com/user-attachments/assets/67965109-1bc0-4b50-a237-4a17bbde5170)
